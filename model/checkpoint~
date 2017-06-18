@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnnmodel_0.312.model-0"
+all_model_checkpoint_paths: "rnnmodel_0.312.model-0"
